@@ -22,8 +22,8 @@
 - 실제 환경에서 발생하는 문제 확인 및 피드백 정리
 
 ## 주요 파일
-- `camera_view_test.py` : TurtleBot 카메라 영상 출력 테스트
-- `turtlebot_yolo_test.py` : YOLO 객체 인식 연동 테스트
+- camera_view_test.py : TurtleBot 카메라 영상 출력 테스트
+- turtlebot_yolo_test.py : YOLO 객체 인식 연동 테스트
 
 ## 테스트 내용
 - 카메라 토픽(`/image_raw`) 수신 확인
