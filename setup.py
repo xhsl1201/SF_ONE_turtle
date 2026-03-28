@@ -26,8 +26,8 @@ setup(
     },
     entry_points={
         'console_scripts': [
-          'image_viewer = sf_one_turtle.test:main',
-          'turtle_yolo = sf_one_turtle.turtle_yolo:main'
+          'camera_view = sf_one_turtle.camera_view_test:main',
+          'turtle_yolo = sf_one_turtle.turtlebot_yolo_test:main'
         ],
     },
 )
